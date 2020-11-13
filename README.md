@@ -1,8 +1,5 @@
 # Frogger
-I Recreated my own version of Frogger, and it's horrible. So, i added some more cooler version of Frogger that are made by mdbrim.
-
-# Frogger Game
-mdbrim > https://mdbrim.github.io/frogger/index.html
+I Recreated my own version of Frogger, and it's horrible. 
 
 Frogger (フロッガー, Furoggā) is a 1981 arcade game developed by Konami and originally published by Sega.[2] In North America, it was published jointly by Sega and Gremlin Industries. The object of the game is to direct frogs to their homes one by one by crossing a busy road and navigating a river full of hazards.
 
