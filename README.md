@@ -1,8 +1,59 @@
-# Frogger
-I Recreated my own version of Frogger, and it's horrible. 
-
-Frogger (フロッガー, Furoggā) is a 1981 arcade game developed by Konami and originally published by Sega.[2] In North America, it was published jointly by Sega and Gremlin Industries. The object of the game is to direct frogs to their homes one by one by crossing a busy road and navigating a river full of hazards.
-
-Frogger was positively received and followed by several clones and sequels. By 2005, Frogger, in its various home video game incarnations, had sold 20 million copies worldwide, including 5 million in the United States.[3] The game found its way into popular culture, including television and music.
+<div align="center">
+  <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/zid.png" width="100" />
+</div>
 
 
+<h1 align="center">
+   <a href="https://3dpong.netlify.app" target="_blank">3D Pong</a>
+</h1>
+
+<h3 align="center">
+  Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth.
+  </h3>
+  
+  <h3 align="center">
+  Using three.js I was able to make a 3D version of the game. And combining with GameRunner a minimal framework for creating canvas games. the game was able to  provide a 60fps double buffered canvas game loop, allowing the game itself to concentrate on updating its game state whenever the update() method is called and rendering itself every time the draw() method is called.
+
+---
+<h1 align="center">
+How to play the game
+</h1>
+ 
+ <h3 align="center">
+On computer, you can use your trackpad or mouse to move the paddle. You can also zoom in or zoom out by scrolling your mousewheel, or pinch your trackpad. There are 3 levels, Novice = Easy | Advanced = Hard | and Pong Lord = Extreme Hard. If you are secretly a pong grandmaster, then I would suggest the "Pong Lord" difficulty. But if you're like me, a complete garbage at pong, then I would suggest you should start at the easiest level, then build your way up to Pong Lord level. In order to win, you have to get 5 points. If the computer gets the 5 points first, you lose. 
+ </h3>
+ 
+ <h3 align="center">On mobile, use your fingers to swipe the paddle. You can also pinch to adjust the height of the view. = Zoom in or Zoom out, whatever that suits you best. One more thing, if you want gravity, just toggle the gravity button. It basically just keeps the ball not floating randomly. It's basic physics. </h3>
+
+ <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/space.webp"/>
+
+
+
+
+
+---
+<h1 align="center">
+🚀 Building your own Frogger
+</h1>
+
+1. Create and change the web link
+
+   ```sh
+   Download or Fork the repository
+   ```
+
+2. Preview the site as it will appear once deployed
+
+   ```sh
+   Use any Code Editor to change anything you don't like
+   ```
+3. Host the repository
+
+   ```sh
+   Once you're finish editing the contents, host the site
+   ```
+4. Enjoy the game
+
+   ```sh
+   Thats it you're finsihed, enjoy the game!
+   ```
