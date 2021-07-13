@@ -12,7 +12,7 @@
   </h3>
   
   <h3 align="center">
-  I tried to make my own version, but I failed. Big time. And not to mention that this game is incredibly frustrating. But whats a game if it's not challenging right? I hope you can find the game useful. If you found any bugs, create an issue and hopefully I'll respond. Anyway enjoy, and have fun playing!
+  I tried to make my own version, but I failed. And not to mention that this game is incredibly frustrating. But whats a game if it's not challenging right? I hope you can find the game useful. If you find any bugs, create an issue and hopefully I'll respond. Anyway enjoy, and have fun playing!
 
 ---
 <h1 align="center">
@@ -20,7 +20,7 @@ How to play the game
 </h1>
  
  <h3 align="center">
-It can only be played on computer. Sorry about that, it's doesn't work on mobile yet. Use your arrow keys to move, and your mission is to get the frog into the lilypads in ONE piece. You have 3 lives, use it well.
+It can only be played on computer. Sorry about that, it doesn't work on mobile yet. Use your arrow keys to move. Your mission is to get the frog into the lilypads in ONE piece. You have 3 lives, use it well.
  </h3>
  
  <h3 align="center"></h3>
